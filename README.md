@@ -9,3 +9,8 @@ On the COVID-19 diagnosis task with single omic data, we got the best AUC of 0.9
 
 ## Conclusions: 
 This study diagnoses COVID-19 positive cases and predicts accurate severity levels. It lowers the dependence on clinical data and professional judgment, which is conducive to triaging patients of different severity levels. Hospital and public health care mechanisms can optimise the distribution of medical resources and improve the robustness of the medical system.
+
+## File Description:
+### EX1:
+### EX2:
+### Data:
