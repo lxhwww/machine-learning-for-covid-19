@@ -14,7 +14,4 @@ This study diagnoses COVID-19 positive cases and predicts accurate severity leve
 ### EX1:
 ### EX2:
 ### Data:
-https://drive.google.com/file/d/1IKEvecdPoc5N6n_buBlS1sAIqgOUzwzL/view?usp=sharing, 
-https://drive.google.com/file/d/1Ja4T15xxTZjk7mNJysWT6PPWur8ex5PY/view?usp=sharing, 
-https://drive.google.com/file/d/1f7Nk0FC7MExVyKhYJKawi1zM9wzqFJKv/view?usp=sharing, 
-https://drive.google.com/file/d/1yWhEySUS82Zd3J53j7FD7_Q68NLasT_A/view?usp=sharing
+
