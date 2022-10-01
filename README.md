@@ -13,14 +13,15 @@ This study diagnoses COVID-19 positive cases and predicts accurate severity leve
 ## File Description:
 ### EX1:Detection and Prognosis of Covid-19 Patients with Single-Omic Data
 #### Data:
-DNA-methylation data:
-RNA-seq data: https://github.com/lxhwww/machine-learning-for-covid-19/blob/0a3782da5d3d6a0a5c5a1d9297eeb2ccdc2e7d4d/Data/ex1/RNA.csv
-Data/ex1/RNA.csv
-
-The proteomics and metabolomics data:
+DNA-methylation data: available with the GSE174818 on GEO,with the link of \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174818}
+https://drive.google.com/file/d/16tuoof17zkJJqCXyxmzERLsr0Rg2lnjf/view?usp=sharing
+RNA-seq data: Data/ex1/RNA.csv
+The proteomics and metabolomics data: Data/ex1/Prot_and_meta_matrix.csv,Data/ex1/Prot_and_meta_matrix_C2.csv
+#### Experient:
 In this section, we first investigate the performance of models using single-omics data with only simple preprocessing and feature transformations, and without fusion of multiple omics data. We implement the detection of covid-19 negatives and positives, and the prediction of severity, on separate datasets. We used several single omic data to build machine learning and neural network models for the detection of covid-19 negatives and positives.
 
 ### EX2:
 #### Data:
-The four-omic data Mass spectrometry raw files and the SQLite database file have been deposited to the MassIVE database (accession number MSV000085703; \url{https://doi.org/10.25345/C5F74G}). We use the data based on \textit{Large-Scale Multi-omic Analysis of COVID-19 Severity}.\citep{overmyer2021large}
+The four-omic data Mass spectrometry raw files and the SQLite database file have been deposited to the MassIVE database (accession number MSV000085703; https://doi.org/10.25345/C5F74G). We use the data based on Large-Scale Multi-omic Analysis of COVID-19 Severity.
+
 
