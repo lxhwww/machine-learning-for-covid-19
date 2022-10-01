@@ -11,7 +11,17 @@ On the COVID-19 diagnosis task with single omic data, we got the best AUC of 0.9
 This study diagnoses COVID-19 positive cases and predicts accurate severity levels. It lowers the dependence on clinical data and professional judgment, which is conducive to triaging patients of different severity levels. Hospital and public health care mechanisms can optimise the distribution of medical resources and improve the robustness of the medical system.
 
 ## File Description:
-### EX1:
-### EX2:
-### Data:
+### EX1:Detection and Prognosis of Covid-19 Patients with Single-Omic Data
+####data:
+DNA-methylation data:
+RNA-seq data:
+The proteomics and metabolomics data:
+In this section, we first investigate the performance of models using single-omics data with only simple preprocessing and feature transformations, and without fusion of multiple omics data. We implement the detection of covid-19 negatives and positives, and the prediction of severity, on separate datasets. We used several single omic data to build machine learning and neural network models for the detection of covid-19 negatives and positives.
 
+### EX2:
+DNA-methylation data:
+RNA-seq data:
+The proteomics and metabolomics data:
+The four-omic data Mass spectrometry raw files and the SQLite database file have been deposited to the MassIVE database (accession number MSV000085703; \url{https://doi.org/10.25345/C5F74G}). We use the data based on \textit{Large-Scale Multi-omic Analysis of COVID-19 Severity}.\citep{overmyer2021large}
+
+### Data:  
