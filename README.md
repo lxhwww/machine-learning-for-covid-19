@@ -21,9 +21,11 @@ The proteomics and metabolomics data: Data/ex1/Prot_and_meta_matrix.csv,Data/ex1
 #### Experient:
 In this section, we first investigate the performance of models using single-omics data with only simple preprocessing and feature transformations, and without fusion of multiple omics data. We implement the detection of covid-19 negatives and positives, and the prediction of severity, on separate datasets. We used several single omic data to build machine learning and neural network models for the detection of covid-19 negatives and positives.
 
-### EX2:
+### EX2:Prediction of Severity of Covid-19 Patients by Multi-Omic Data
 #### Data:  
-The four-omic data Mass spectrometry raw files and the SQLite database file have been deposited to the MassIVE database (accession number MSV000085703; https://doi.org/10.25345/C5F74G). We use the data based on Large-Scale Multi-omic Analysis of COVID-19 Severity.
-
+The four-omic data Mass spectrometry raw files and the SQLite database file have been deposited to the MassIVE database (accession number MSV000085703; https://doi.org/10.25345/C5F74G). We use the data based on Large-Scale Multi-omic Analysis of COVID-19 Severity.  
+In our repostory:
+#### Experient:
+For the covid-19 severity prediction scenario, we show the effects of the classification model and the variability between subgroups, based on the experimental process,in the directions of training the classifier to obtain subgroups and validating the robustness. We compared and discussed the effects of different experimental approaches and the impact of different combinations of parameters and input data on the model performance. Validation results of the robustness of the classification results on an independent dataset are presented.
 
 
