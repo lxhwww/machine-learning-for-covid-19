@@ -14,7 +14,8 @@ This study diagnoses COVID-19 positive cases and predicts accurate severity leve
 ### EX1:Detection and Prognosis of Covid-19 Patients with Single-Omic Data
 #### Data:
 DNA-methylation data:   
-available with the GSE174818 on GEO,with the link of https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174818  
+available with the GSE174818 on GEO,with the link of https:  
+www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174818  
 https://drive.google.com/file/d/16tuoof17zkJJqCXyxmzERLsr0Rg2lnjf/view?usp=sharing  
 RNA-seq data: Data/ex1/RNA.csv  
 The proteomics and metabolomics data: Data/ex1/Prot_and_meta_matrix.csv,Data/ex1/Prot_and_meta_matrix_C2.csv   
